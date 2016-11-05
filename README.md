@@ -90,14 +90,17 @@ Your resume should have following sections.
 	Implemented X using Y or Implemented X using Y to fix Z. Where X =  any new feature, Y = language or framework and Z = issue.
 4. **Projects**
 
-	Same points apply to project as well. Don't forget to add links of code or websites if you have any. 
-5. **Leadership Experience**
+	Same points apply to project as well. Don't forget to add links of code or websites if you have any.
+5. **Open Source Contributions** (If you have any)
+
+	Mention what projects you have contributed to, what your contribution was and provide links to your commits so that recruiters can easily verify your contributions and have a look at your code.
+6. **Leadership Experience**
 
 	Add your volunteering or committee work in this section.
-6. **Extra-Curricular**
+7. **Extra-Curricular**
 	
 	All your competitive programming rankings, awards and hackathon related stuff goes here. 
-7. **Work Authorization**
+8. **Work Authorization**
 
 	You'll be applying to US based companies so don't forget to add this line. 
 
