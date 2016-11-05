@@ -35,9 +35,9 @@ Here you go!
 |-------------|--------------|------------|-----------|
 | HTML5| HTML|Java| Objective C|
 | CSS3|CSS| Android Versions and changes| Swift
-|JavaScript| Server configs| Working with Android Studio
-|JQuery| Working with APIs| Android UI and UX|
-|Saas|Chrome Dev Tools| Best Practices |
+|JavaScript| Server configs| Working with Android Studio | [App Store Guidelines](https://developer.apple.com/app-store/guidelines/)
+|JQuery| Working with APIs| Android UI and UX| [Common App Rejections](https://developer.apple.com/app-store/review/rejections/)
+|Saas|Chrome Dev Tools| Best Practices | 
 |React|Python, PHP or Ruby|
 |Angular|
 |Chrome Dev Tools|
