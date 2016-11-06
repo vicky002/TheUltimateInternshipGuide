@@ -2,11 +2,11 @@
 
 Hola!
 
-As a student each one of us has a dream. Dream of doing a great internship and landing a job in a company that you really love and want to work for! There are jazillion websites, articles, blog posts and videos available on how to land an internship. Chances are, you've already read or know 98 percent of this advice: edit and proofread your resume and cover letters, dress appropriately for an interview, be on time or 15 minutes early to an interview, send thank you notes etc. You won't get any such advice in this blog post. This post will take you from zero to one. Get a notebook and pen, this is going to be a long post. Grab some snacks and start making a note of points that you think would be helpful for you in the future. 
+As a student each one of us has a dream. Dream of doing a great internship and landing a job in a company that you really love and want to work for! There are jazillion websites, articles, blog posts and videos available on how to land an internship. Chances are, you've already read or know 98 percent of this advice: edit and proofread your resume and cover letters, dress appropriately for an interview, be on time or 15 minutes early to an interview, send thank you notes etc. You won't get any such advice here. This post will take you from zero to one. Get a notebook and pen, this is going to be a long post. Grab some snacks and start making a note of points that you think would be helpful for you in the future. 
 
 I'm assuming you are currently in second year and you'll be applying for your dream internship in third year. You already know C/C++ or any object oriented programming knowledge and basics data structures like Linked List, Stack, Queues etc.
 
-Let's divide the blog into three sections.
+Let's divide this post into three sections.
 
 ### Things you need to do before applying for an internship. 
 
@@ -104,7 +104,7 @@ Your resume should have following sections.
 
 	You'll be applying to US based companies so don't forget to add this line. 
 
-I haven't updated my resume since last two month but have a look at it once. Ignore objective section it's just a waste of space. 
+This is my latest resume (Oct'16), have a look at it once. You can use <a href="https://github.com/vicky002/Resume/blob/master/res.cls" target="_blank">cls code</a> to create similar resume.  
 
 <img src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Resume.png">
 
@@ -117,7 +117,7 @@ Now you have a very good resume and you know all basics of CS. The time has come
 
 ### This is the right time!
 
-Yes! This is december 2016 and Internship process for Summer 2017 has just started. I have already created a sheet for you! Open <a href="https://docs.google.com/spreadsheets/d/1-0M50QEHjB64WhdcMFDlAbp4atND8QrlWJwKkfpNJ2k/edit?usp=sharing" target="_blank">this sheet</a> and make a copy for yourself. Edit companies as per your preferences. 
+Yes! This is December and Internship process for the next summer has just started. I have already created a sheet for you! Open <a href="https://docs.google.com/spreadsheets/d/1-0M50QEHjB64WhdcMFDlAbp4atND8QrlWJwKkfpNJ2k/edit?usp=sharing" target="_blank">this sheet</a> and make a copy for yourself. Edit companies as per your preferences. 
 
 Apply everywhere! Don't think that you don't have a perfect resume, just visit their career website or <a href="https://www.linkedin.com/vsearch/j?keywords=Internship&title=Internship&sb=Jobs%20for%20Internship%20titles&trk=tyah&trkInfo=clickedVertical%3Asuggestion%2CclickedEntityId%3A166%2Cidx%3A1-1-1%2CtarId%3A1457835727447%2Ctas%3Ainternship%20" target="_blank">LinkedIn internship posts</a> and fill the form. I applied to <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">more than 20 companies this year</a>. 
 
@@ -189,7 +189,9 @@ I have collected some interview experiences of top companies from different reso
 
 Last thing: 
 
-Keep talking and asking to people who have more knowledge than you, networking is really important.  
+Keep talking and asking to people who have more knowledge than you, networking is really important. 
+
+P.S. : Create issues if you can have any questions regarding internship, interview or resume, that will help everyone! 
 
   
 **Disclaimer:** *I am not a recruiter or a brilliant coder who works in your dream company. I am a student just like you and I have spent last two months searching for the internship blogs, articles and interview experiences. I applied to more than twenty companies for summer internship and <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">interviewed with some top companies</a> and I'd be interning at <a href="https://www.slack.com" target="_blank">Slack</a> this summer. Read and follow things mentioned in this post at your own risk!*
