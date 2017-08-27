@@ -6,6 +6,12 @@
 
 =============================================
 
+### Donate ($1) - Help me in creating more awesome open source projects
+
+[<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1)
+
+---
+
 Hola!
 
 As a student each one of us has a dream. Dream of doing a great internship and landing a job in a company that you really love and want to work for! There are jazillion websites, articles, blog posts and videos available on how to land an internship. Chances are, you've already read or know 98 percent of this advice: edit and proofread your resume and cover letters, dress appropriately for an interview, be on time or 15 minutes early to an interview, send thank you notes etc. You won't get any such advice here. This post will take you from zero to one. Get a notebook and pen, this is going to be a long post. Grab some snacks and start making a note of points that you think would be helpful for you in the future. 
