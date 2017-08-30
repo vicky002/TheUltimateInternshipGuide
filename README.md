@@ -34,10 +34,10 @@ I interviewed with 5-6 companies and from my experience here is the list of topi
 |Stack|Basics of Graphs|Subnetting | Paging| ACID Property|
 |Hash Table|BFS and DFS | Masking|Deadlock| SQL Injection and Prevention
 |Binary Tree|KMP Algorithm| STMP and POP3| Starvation|
-|Binary Search Tree|Robin-Karp Algorithm| Working of PING| Critical Section|
+|Binary Search Tree|Rabin-Karp Algorithm| Working of PING| Critical Section|
 |Priority Queue|Dijkstra's Algorithm|TCP Handshake |IPC|
 |Trie|Prim's Algorithm|| Inode
-|Suffix Tree| Divide & Conqure and DP| | |
+|Suffix Tree| Divide & Conquer and DP| | |
 
 #### But Vicky, I would be applying for position specific internship. Where is my list?
 
