@@ -193,6 +193,7 @@ I have collected some interview experiences of top companies from different reso
 - <a href="http://www.indiabix.com/" target="_blank">IndiaBix</a>
 - <a href="http://www.careercup.com" target="_blank">CareerCup</a>
 - <a href="http://katemats.com/hiring-interviews/" target="_blank">KateMats</a>
+- <a href="https://www.interviewbit.com/" target="_blank">InterviewBit</a>
 
 #### Other
 
